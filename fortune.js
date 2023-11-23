@@ -11,6 +11,9 @@ const randFortune = () => {
         "Your next online order will be delivered to your neighbor by mistake.",
         "You'll find a penny on the ground, heads down - bad luck!"
     ];
-    return Math.floor(Math.random() * fortunes.length);
+    const randIndex = Math.floor(Math.random() * fortunes.length);
+    return fortunes[randIndex];
     
 }
+
+console.log(randFortune());
