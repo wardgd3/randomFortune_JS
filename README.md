@@ -2,19 +2,19 @@
 ## Description
 The randFortune function is a JavaScript utility that provides you with a random fortune from a predefined list of fortunes. It's a fun way to get a random prediction or piece of advice for your day.
 
-Usage
+## Usage
 To use the randFortune function, simply call it in your JavaScript code. It will return a random fortune string from the list. You can use this fortune for various purposes, such as displaying it to users or just for personal amusement.
 
 Here's an example of how to use it:
 
-## Javascript
-Copy code
-const fortune = randFortune();
-console.log(fortune);
-This will log a random fortune to the console.
+### Javascript
+- Copy code
+**console.log(randFortune());**
+This will log a random fortune to the console. 
+- For Git Bash, use **node fortune.js.**
 
 ## Fortunes List
-The randFortune function uses the following list of fortunes:
+The **randFortune** function uses the following list of fortunes:
 
 - "You will soon discover that your favorite song is actually a commercial jingle."
 - "Your next haircut will be interesting, to say the least."
