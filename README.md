@@ -1,4 +1,6 @@
-# Random Fortune Generator
+Random Fortune Generator
+=
+
 ## Description
 The randFortune function is a JavaScript utility that provides you with a random fortune from a predefined list of fortunes. It's a fun way to get a random prediction or piece of advice for your day.
 
